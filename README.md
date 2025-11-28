@@ -4,11 +4,11 @@
 # I am Vishal
 
 
-### I am Python Backend Developer👩‍💻.
+### I am Python Developer👩‍💻.
 
 I am a highly skilled and fresher software developer .
 
-My key strengths are understanding complex requirements and planning tasks effectively, which helps me build scalable, robust, and production-ready software applications. My primary focus has been on back-end engineering, and I am highly proficient in using Python as my primary programming language.
+My key strengths are understanding complex requirements and planning tasks effectively, which helps me build scalable, robust, and production-ready software applications. My primary focus has been on python development, and I am highly proficient in using Python as my primary programming language.
 
 I am proficient in Python, and Javascript. I have working with frameworks like Django and DRF.
 
