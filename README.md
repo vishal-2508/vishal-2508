@@ -22,4 +22,4 @@ I also have working with various databases, including MySQL.
 * DSA (Data Structures and Algorithms)
 * Javascript
 * HTML
-* CSS
+
